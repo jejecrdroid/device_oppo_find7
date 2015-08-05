@@ -33,6 +33,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=find7 TARGET_DEVICE=find7
 PRODUCT_COPY_FILES += \
    	device/oppo/find7/prebuilt/app/OppoCAM.apk:system/priv-app/OppoCAM.apk \
 	device/oppo/find7/prebuilt/app/AdAway.apk:system/priv-app/AdAway.apk \
-	device/oppo/find7/prebuilt/app/OPPOForums.apk:system/priv-app/OPPOForums.apk \
 	device/oppo/find7/prebuilt/app/V4A.apk:system/priv-app/V4A.apk \
 	device/oppo/find7/prebuilt/app/FX.apk:system/priv-app/ES.apk

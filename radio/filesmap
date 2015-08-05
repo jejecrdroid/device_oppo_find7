@@ -1,0 +1,8 @@
+emmc_appsboot.mbn /dev/block/platform/msm_sdcc.1/by-name/aboot       e668aba5f7fca792dfaaf24e096db44efebbdfb2
+logo.bin          /dev/block/platform/msm_sdcc.1/by-name/LOGO        89f18c77d2f128cebf187dc7b7d4ec58bae04722
+NON-HLOS.bin      /dev/block/platform/msm_sdcc.1/by-name/modem       9661e48ab94a28e02b5211feecbf27f5e345264c
+reserve4.img      /dev/block/platform/msm_sdcc.1/by-name/reserve4    3929eb99b0412cb0e7c0136adb8de00b2ed2ebf1
+rpm.mbn           /dev/block/platform/msm_sdcc.1/by-name/rpm         fd193d0c63e82db6ac46ef9512c20fc59d7ee24c
+sbl1.mbn          /dev/block/platform/msm_sdcc.1/by-name/sbl1        5a5072be6eee489a9e99caccbb2b2cb03713020c
+static_nvbk.bin   /dev/block/platform/msm_sdcc.1/by-name/oppostanvbk da05ae66962aa6fa64e8a39de49e70f6795c41de
+tz.mbn            /dev/block/platform/msm_sdcc.1/by-name/tz          df3050b849f9ff58cad32326ceeb954b2ec8613e

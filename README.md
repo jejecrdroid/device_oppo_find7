@@ -1,2 +1,2 @@
-# device_oppo_find7
-universal find7 trees
+# Find7 device tree for Find7a, Find7s
+SUPPORTS STOCK STORAGE LAYOUT, LVM AND COLDBIRD'S UNIFICATION
